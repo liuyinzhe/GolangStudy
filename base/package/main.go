@@ -2,7 +2,7 @@ package main
 
 import (
 	"a1/lib"
-	"a1/lib/lib2" // from a1.lib import lib2
+	"a1/lib/lib2" // from a1.lib import lib2 //lib2 只是目录名
 	"fmt"
 )
 
